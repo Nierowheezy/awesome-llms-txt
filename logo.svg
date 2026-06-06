@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 80" width="280" height="80">
+  <!-- Background -->
+  <rect width="280" height="80" rx="12" fill="#1a1a2e"/>
+  
+  <!-- llms.txt text -->
+  <text x="20" y="48" font-family="'SF Mono', 'JetBrains Mono', monospace" font-size="28" fill="#00ff88" font-weight="bold">llms.txt</text>
+  
+  <!-- Awesome text -->
+  <text x="175" y="48" font-family="'SF Mono', 'JetBrains Mono', monospace" font-size="18" fill="#888888" font-weight="normal">awesome</text>
+  
+  <!-- Star icon -->
+  <polygon points="260,30 265,42 278,42 268,50 272,62 260,55 248,62 252,50 242,42 255,42" fill="#ffcc00"/>
+</svg>

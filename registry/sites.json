@@ -1,0 +1,58 @@
+{
+  "lastUpdated": "2025-01-15T00:00:00.000Z",
+  "sites": [
+    {
+      "name": "Zod",
+      "url": "https://zod.dev",
+      "hasLlmstxt": true,
+      "hasLlmstxtFull": false,
+      "llmsTxtUrl": "https://zod.dev/llms.txt",
+      "category": "Library",
+      "description": "TypeScript-first schema validation",
+      "addedAt": "2024-01-15",
+      "verifiedAt": "2025-01-15"
+    },
+    {
+      "name": "FastHTML",
+      "url": "https://fastht.ml",
+      "hasLlmstxt": true,
+      "hasLlmstxtFull": false,
+      "llmsTxtUrl": "https://fastht.ml/llms.txt",
+      "category": "Framework",
+      "description": "Python web framework for fast HTML apps",
+      "addedAt": "2024-01-15",
+      "verifiedAt": "2025-01-15"
+    },
+    {
+      "name": "Answer.AI",
+      "url": "https://answer.ai",
+      "hasLlmstxt": true,
+      "hasLlmstxtFull": true,
+      "llmsTxtUrl": "https://answer.ai/llms.txt",
+      "category": "Company",
+      "description": "AI research and education company",
+      "addedAt": "2024-01-15",
+      "verifiedAt": "2025-01-15"
+    },
+    {
+      "name": "nbdev",
+      "url": "https://nbdev.fast.ai",
+      "hasLlmstxt": true,
+      "hasLlmstxtFull": true,
+      "llmsTxtUrl": "https://nbdev.fast.ai/llms.txt",
+      "category": "Tool",
+      "description": "Develop software with Jupyter Notebooks",
+      "addedAt": "2024-02-01",
+      "verifiedAt": "2025-01-15"
+    }
+  ],
+  "categories": [
+    "Library",
+    "Framework",
+    "Company",
+    "API",
+    "SaaS",
+    "Documentation",
+    "Tool"
+  ]
+}

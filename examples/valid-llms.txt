@@ -1,0 +1,17 @@
+# Example Project
+
+> A sample project demonstrating a valid llms.txt file format following the Answer.AI specification.
+
+## Quick Links
+- [Documentation](https://example.com/docs) — Complete API reference with examples
+- [Getting Started](https://example.com/start) — 5-minute setup guide for beginners
+- [GitHub Repository](https://github.com/example/project) — Source code, issues, and pull requests
+- [Examples Gallery](https://example.com/examples) — Real-world usage examples and tutorials
+- [API Reference](https://example.com/api) — Detailed endpoint documentation
+
+## Optional
+- [Architecture Overview](https://example.com/architecture) — How the system works under the hood
+- [Contributing Guide](https://github.com/example/project/CONTRIBUTING) — Help improve the project
+- [Benchmarks](https://example.com/benchmarks) — Performance comparisons with alternatives
+- [Changelog](https://example.com/changelog) — Version history and breaking changes
+- [FAQ](https://example.com/faq) — Common questions and troubleshooting

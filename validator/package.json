@@ -1,0 +1,34 @@
+{
+  "name": "llms-txt-validator",
+  "version": "1.0.0",
+  "description": "Validate your llms.txt files against the Answer.AI specification",
+  "main": "cli.js",
+  "bin": {
+    "llms-txt-validator": "./cli.js"
+  },
+  "scripts": {
+    "test": "node cli.js ../examples/valid-llms.txt",
+    "test:url": "node cli.js https://zod.dev/llms.txt",
+    "test:invalid": "node cli.js ../examples/invalid-llms.txt"
+  },
+  "keywords": [
+    "llms-txt",
+    "llms.txt",
+    "validator",
+    "ai",
+    "documentation",
+    "llm",
+    "claude",
+    "chatgpt",
+    "answer-ai"
+  ],
+  "author": "Nierowheezy",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nierowheezy/awesome-llms-txt"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

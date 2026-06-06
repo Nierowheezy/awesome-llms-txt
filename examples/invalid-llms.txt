@@ -1,0 +1,10 @@
+# Missing description and quick links
+
+This file is intentionally invalid to test the validator.
+
+## Some Other Section
+- [Broken Link](file:///local/file)
+- [Relative Link](/docs)
+
+No blockquote description at the top.
+Missing proper link descriptions.
