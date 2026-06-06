@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-06T19:44:43.784Z",
+  "lastUpdated": "2026-06-06T19:49:06.198Z",
   "sites": [
     {
       "name": "Zod",
@@ -31,14 +31,17 @@
     {
       "name": "Answer.AI",
       "url": "https://answer.ai",
-      "hasLlmstxt": false,
+      "hasLlmstxt": true,
       "isValid": false,
       "hasLlmstxtFull": true,
       "llmsTxtUrl": "https://answer.ai/llms.txt",
       "category": "Company",
       "description": "AI research and education company",
       "addedAt": "2024-01-15",
-      "verifiedAt": "2026-06-06"
+      "verifiedAt": "2026-06-06",
+      "validationErrors": [
+        "Missing \"## Quick Links\" section"
+      ]
     },
     {
       "name": "nbdev",
