@@ -1,10 +1,14 @@
 {
-  "lastUpdated": "2025-01-15T00:00:00.000Z",
+  "lastUpdated": "2026-06-06T19:44:43.784Z",
   "sites": [
     {
       "name": "Zod",
       "url": "https://zod.dev",
       "hasLlmstxt": true,
+      "isValid": false,
+      "validationErrors": [
+        "Missing \"## Quick Links\" section"
+      ],
       "hasLlmstxtFull": false,
       "llmsTxtUrl": "https://zod.dev/llms.txt",
       "category": "Library",
@@ -15,35 +19,42 @@
     {
       "name": "FastHTML",
       "url": "https://fastht.ml",
-      "hasLlmstxt": true,
+      "hasLlmstxt": false,
+      "isValid": false,
       "hasLlmstxtFull": false,
       "llmsTxtUrl": "https://fastht.ml/llms.txt",
       "category": "Framework",
       "description": "Python web framework for fast HTML apps",
       "addedAt": "2024-01-15",
-      "verifiedAt": "2025-01-15"
+      "verifiedAt": "2026-06-06"
     },
     {
       "name": "Answer.AI",
       "url": "https://answer.ai",
-      "hasLlmstxt": true,
+      "hasLlmstxt": false,
+      "isValid": false,
       "hasLlmstxtFull": true,
       "llmsTxtUrl": "https://answer.ai/llms.txt",
       "category": "Company",
       "description": "AI research and education company",
       "addedAt": "2024-01-15",
-      "verifiedAt": "2025-01-15"
+      "verifiedAt": "2026-06-06"
     },
     {
       "name": "nbdev",
       "url": "https://nbdev.fast.ai",
       "hasLlmstxt": true,
+      "isValid": false,
+      "validationErrors": [
+        "Missing blockquote description (line starting with \"> \")",
+        "Missing \"## Quick Links\" section"
+      ],
       "hasLlmstxtFull": true,
       "llmsTxtUrl": "https://nbdev.fast.ai/llms.txt",
       "category": "Tool",
       "description": "Develop software with Jupyter Notebooks",
       "addedAt": "2024-02-01",
-      "verifiedAt": "2025-01-15"
+      "verifiedAt": "2026-06-06"
     }
   ],
   "categories": [
