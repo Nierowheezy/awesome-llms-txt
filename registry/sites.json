@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-06T20:30:00.000Z",
+  "lastUpdated": "2026-06-23T09:18:00.000Z",
   "sites": [
     {
       "name": "Zod",
@@ -158,6 +158,19 @@
       "description": "GitHub documentation",
       "addedAt": "2026-06-06",
       "verifiedAt": "2026-06-06",
+      "validationErrors": ["Missing \"## Quick Links\" section"]
+    },
+    {
+      "name": "Xquik",
+      "url": "https://docs.xquik.com",
+      "hasLlmstxt": true,
+      "isValid": false,
+      "hasLlmstxtFull": true,
+      "llmsTxtUrl": "https://docs.xquik.com/llms.txt",
+      "category": "API",
+      "description": "Real-time X data platform with REST, webhooks, MCP, and SDKs",
+      "addedAt": "2026-06-23",
+      "verifiedAt": "2026-06-23",
       "validationErrors": ["Missing \"## Quick Links\" section"]
     },
     {
