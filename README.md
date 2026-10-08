@@ -309,6 +309,7 @@ Important notes:
 | [Answer.AI](https://answer.ai) | ✅       | ✅            | Company   | 2024-01-15 |
 | [nbdev](https://nbdev.fast.ai) | ✅       | ✅            | Tool      | 2024-02-01 |
 
+| [Penny Press](https://www.pennypress.org) | ✅ | ❌ | Company | 2026-10-08 |
 **[Submit your site →](CONTRIBUTING.md#how-to-add-a-site-to-the-registry)**
 
 ---

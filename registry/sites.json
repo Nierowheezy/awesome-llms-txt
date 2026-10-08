@@ -1,12 +1,14 @@
 {
-  "lastUpdated": "2026-06-06T20:30:00.000Z",
+  "lastUpdated": "2026-10-08T19:00:00.000Z",
   "sites": [
     {
       "name": "Zod",
       "url": "https://zod.dev",
       "hasLlmstxt": true,
       "isValid": false,
-      "validationErrors": ["Missing \"## Quick Links\" section"],
+      "validationErrors": [
+        "Missing \"## Quick Links\" section"
+      ],
       "hasLlmstxtFull": false,
       "llmsTxtUrl": "https://zod.dev/llms.txt",
       "category": "Library",
@@ -37,7 +39,9 @@
       "description": "AI research and education company",
       "addedAt": "2024-01-15",
       "verifiedAt": "2026-06-06",
-      "validationErrors": ["Missing \"## Quick Links\" section"]
+      "validationErrors": [
+        "Missing \"## Quick Links\" section"
+      ]
     },
     {
       "name": "nbdev",
@@ -66,7 +70,9 @@
       "description": "JavaScript UI library",
       "addedAt": "2026-06-06",
       "verifiedAt": "2026-06-06",
-      "validationErrors": ["Missing \"## Quick Links\" section"]
+      "validationErrors": [
+        "Missing \"## Quick Links\" section"
+      ]
     },
     {
       "name": "Vue.js",
@@ -95,7 +101,9 @@
       "description": "React framework for production",
       "addedAt": "2026-06-06",
       "verifiedAt": "2026-06-06",
-      "validationErrors": ["Missing \"## Quick Links\" section"]
+      "validationErrors": [
+        "Missing \"## Quick Links\" section"
+      ]
     },
     {
       "name": "Tailwind CSS",
@@ -132,7 +140,9 @@
       "description": "NoSQL database documentation",
       "addedAt": "2026-06-06",
       "verifiedAt": "2026-06-06",
-      "validationErrors": ["Missing \"## Quick Links\" section"]
+      "validationErrors": [
+        "Missing \"## Quick Links\" section"
+      ]
     },
     {
       "name": "Docker",
@@ -145,7 +155,9 @@
       "description": "Container platform documentation",
       "addedAt": "2026-06-06",
       "verifiedAt": "2026-06-06",
-      "validationErrors": ["Missing \"## Quick Links\" section"]
+      "validationErrors": [
+        "Missing \"## Quick Links\" section"
+      ]
     },
     {
       "name": "GitHub",
@@ -158,7 +170,9 @@
       "description": "GitHub documentation",
       "addedAt": "2026-06-06",
       "verifiedAt": "2026-06-06",
-      "validationErrors": ["Missing \"## Quick Links\" section"]
+      "validationErrors": [
+        "Missing \"## Quick Links\" section"
+      ]
     },
     {
       "name": "FastAPI",
@@ -183,7 +197,21 @@
       "description": "Cybernetically enhanced web apps",
       "addedAt": "2026-06-06",
       "verifiedAt": "2026-06-06",
-      "validationErrors": ["Missing \"## Quick Links\" section"]
+      "validationErrors": [
+        "Missing \"## Quick Links\" section"
+      ]
+    },
+    {
+      "name": "Penny Press",
+      "url": "https://www.pennypress.org",
+      "hasLlmstxt": true,
+      "isValid": false,
+      "hasLlmstxtFull": false,
+      "llmsTxtUrl": "https://www.pennypress.org/llms.txt",
+      "category": "Company",
+      "description": "Pay-per-read essays for AI agents via x402 micropayments",
+      "addedAt": "2026-10-08",
+      "verifiedAt": "2026-10-08"
     }
   ],
   "categories": [
