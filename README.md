@@ -308,6 +308,7 @@ Important notes:
 | [FastHTML](https://fastht.ml)  | ✅       | ❌            | Framework | 2024-01-15 |
 | [Answer.AI](https://answer.ai) | ✅       | ✅            | Company   | 2024-01-15 |
 | [nbdev](https://nbdev.fast.ai) | ✅       | ✅            | Tool      | 2024-02-01 |
+| [StagePeek](https://stagepeek.live) | ✅ | ✅ | SaaS | 2026-11-27 |
 
 **[Submit your site →](CONTRIBUTING.md#how-to-add-a-site-to-the-registry)**
 
